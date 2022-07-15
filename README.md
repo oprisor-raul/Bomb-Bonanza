@@ -15,6 +15,7 @@ List of key details that I got a deeper understanding of:
   - View Modifiers
   - ObservedObject
   - Animations
+  - User Defaults
   - Sounds (.onTapGesture)
   - Struct, Classes, Optionals, Enums
   - Functions
