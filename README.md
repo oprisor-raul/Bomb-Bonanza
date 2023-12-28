@@ -67,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 [Swift-Programming-Language]: https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white
 [Swift-url]: https://developer.apple.com/swift/
